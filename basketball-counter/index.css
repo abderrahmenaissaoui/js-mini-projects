@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: #1B244A;
+}
+
+h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn1, .btn2, .btn3{
+    margin: 1px;
+    background-color: #1B244A;
+    border: 1px solid #9AABD8;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin-bottom: 20px;
+    color: #9AABD8;
+}
+
+.counter{
+    margin-bottom: 20px;
+    margin-top: 0;
+    background-color: black;
+    height: 100px;
+    color: #F94F6D;
+    font-size: 80px;
+    font-family: 'Cursed Timer ULiL', sans-serif;;
+    border-radius: 5px;
+}
+
+#home-counter{
+    margin: 0;
+    padding:10px;
+}
+
+#guest-counter{
+     margin: 0;
+     padding:10px;
+}
+
+#restart{
+    margin-top: 20px;
+    padding: 8px 20px;
+    padding-top: 13px;
+    color: #F94F6D;
+    background-color: black;
+    border: 0;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    border-radius: 5px;
+    font-size: 25px;
+}
