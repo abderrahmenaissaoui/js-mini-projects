@@ -24,6 +24,8 @@ Click "Generate Password".
 
 Copy your new password and use it securely!
 
+Live Test right here: stellar-smakager-60f474.netlify.app
+
 ✅ Example Output
 
 Generated Password: Xf8@kLm2#Q
